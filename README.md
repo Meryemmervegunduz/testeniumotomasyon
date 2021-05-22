@@ -1,1 +1,1 @@
-# testeniumotomasyon
+# Otomasyon Projesidir.
